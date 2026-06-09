@@ -47,9 +47,7 @@ Employee Management System is a web-based application developed using Java techn
 * `admin`
 * `employees`
 
-* (for admin login use:
-* username - admin
-* password - admin123)
+* (for admin login use: username - Admin , password - admin123)
 
 ## Live Demo
 
