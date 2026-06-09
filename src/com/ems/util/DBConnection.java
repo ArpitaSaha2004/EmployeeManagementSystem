@@ -14,9 +14,9 @@ public class DBConnection {
             Class.forName("com.mysql.cj.jdbc.Driver");
 
             con = DriverManager.getConnection(
-                    "jdbc:mysql://localhost:3306/employee_management",
-                    "root",
-                    "YOUR_MYSQL_PASSWORD" //here use your local mysql password
+                    "jdbc:mysql://mysql-37fdb8ad-arpitasaha-2004.h.aivencloud.com:21383/employee_management?sslMode=REQUIRED",
+                    "avnadmin",
+                    "AVNS_Bss4p_FbWAa6xb9X8Ik"//here use your local mysql password
             );
 
             System.out.println("Database Connected");
