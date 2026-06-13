@@ -53,6 +53,10 @@ Employee Management System is a web-based application developed using Java techn
 
 https://employeemanagementsystem-jmad.onrender.com
 
+## Project Screenshots
+
+Screenshots demonstrating the major features and functionalities of the Employee Management System are provided in the `screenshots` folder of this repository.
+
 ## Deployment
 
 * Application Hosting: Render
